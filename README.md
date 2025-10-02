@@ -1,2 +1,2 @@
-# Fraud-Detection-Model
-A machine learning project for detecting fraudulent financial transactions using Python and Scikit-learn.
+Fraud Detection Model
+A machine learning project for detecting fraudulent financial transactions using Python and Scikit-learn. The system preprocesses large-scale transaction data, applies feature engineering and normalization, and trains supervised models (Logistic Regression, Random Forest) to classify fraud with high accuracy. Includes performance evaluation (cross-validation, confusion matrix, ROC-AUC, precision-recall) and data visualization for actionable insights.
