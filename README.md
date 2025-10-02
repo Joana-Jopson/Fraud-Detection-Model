@@ -31,6 +31,6 @@ Key highlights:
 
   --> oldbalanceOrg, newbalanceOrig → sender’s balance before/after transaction
 
-oldbalanceDest, newbalanceDest → recipient’s balance before/after transaction
+  --> oldbalanceDest, newbalanceDest → recipient’s balance before/after transaction
 
-isFraud → fraud label (1 = fraud, 0 = legitimate)
+  --> isFraud → fraud label (1 = fraud, 0 = legitimate)
