@@ -1,4 +1,4 @@
-verview
+# Fraud Detection Model:
 
 Fraudulent financial transactions can cause significant losses for financial institutions.
 This project builds and compares supervised learning models to classify transactions as fraudulent or genuine, leveraging structured transaction data.
